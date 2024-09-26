@@ -25,3 +25,7 @@ Users can choose to save this information to a file or clear the output panel fo
    - The number of occurrences.
    - The percentage of matches in each file.
 5. To save the results, click the "Save Output" button. You can also clear the output panel by clicking "Clear Output."
+
+## Potential Future Enhancements
+- **Spell-Check & Suggestions**: Adding a feature to detect and suggest corrections for misspelled search terms, enhancing user experience.
+- **Wildcard Search**: Allowing users to search with wildcard characters (e.g., `h*y` to match "happy"), increasing flexibility in search patterns.
